@@ -13,7 +13,7 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
             By{' '}
             <ExternalLink href="">Aryan</ExternalLink>{' '}
             based on{' '}
-            <ExternalLink href="https://github.com/vercel-labs/ai-chatbot">Vercel AI Chatbot</ExternalLink>
+            <ExternalLink href="https://github.com/Katty020/chatbot">Vercel AI Chatbot</ExternalLink>
         </p>
     )
 }
